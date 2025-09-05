@@ -2,7 +2,7 @@
 
 An intelligent dustbin that automatically opens its lid when it detects an object nearby using ultrasonic sensor technology.
 
-![Smart Dustbin Project](media/images/IMG-20250829-WA0013.jpg)
+![Smart Dustbin Project](media/images/IMG-20250829-WA0014.jpg)
 
 ## Features
 
@@ -34,7 +34,7 @@ An intelligent dustbin that automatically opens its lid when it detects an objec
 | Servo GND | GND |
 
 ### Circuit Assembly
-![Circuit Setup](media/images/IMG-20250829-WA0014.jpg)
+![Circuit Setup](media/images/circuit.png)
 
 ## Installation & Setup
 
@@ -61,11 +61,6 @@ An intelligent dustbin that automatically opens its lid when it detects an objec
 3. When you approach within 10cm, the lid automatically opens
 4. The lid stays open for 2.5 seconds, then closes
 5. Monitor serial output (9600 baud) for distance readings
-
-### Project Gallery
-![Smart Dustbin in Action](media/images/IMG-20250829-WA0015.jpg)
-
-![Final Assembly](media/images/IMG-20250829-WA0016.jpg)
 
 ## Code Structure
 
