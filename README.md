@@ -98,6 +98,8 @@ Check the `/media/videos/` folder for demonstration videos:
 - Circuit testing footage
 - Assembly process recordings
 
+- Youtube Video ( for step by step guide ) : https://www.youtube.com/watch?v=kiqcsLyOQH0
+
 ## Author
 
 Aditya Sharma - aditya1401sharma@gmail.com
